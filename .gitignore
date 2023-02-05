@@ -35,4 +35,5 @@ terraform.rc
 .terraform.lock.hcl
 
 #private key
+
 papae-key-pair.pem
